@@ -1,5 +1,5 @@
 # Sea-Guardian
-TCC EM (Bolsa) - Sea Guardian
+TCC E.M. Técnico (Bolsa) - Sea Guardian
 2023
 
 Projeto de Bolsa fornecida pela FACTO em parceria com o Corpo de Bombeiros com o intuito de prototipar uma I.A. acoplada a um Drone Autônomo com câmera HD e Térmica com a função de identificar e ajudar na vigia de pessoas em praias, lagos e em alto mar.
